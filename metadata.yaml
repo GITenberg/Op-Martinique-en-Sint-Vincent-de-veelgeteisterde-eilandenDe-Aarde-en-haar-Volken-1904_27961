@@ -1,0 +1,27 @@
+_repo: Op-Martinique-en-Sint-Vincent-de-veelgeteisterde-eilandenDe-Aarde-en-haar-Volken-1904_27961
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verschuur, Gerrit
+    gutenberg_agent_id: '5184'
+    url: http://www.gutenberg.org/2009/agents/5184
+description: ''
+gutenberg_issued: '2009-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27961'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pelée, Mount (Martinique) -- Eruption, 1902'
+- !lcsh 'Soufrière (Saint Vincent and the Grenadines) -- Eruption, 1902'
+- !lcc 'F2001'
+title: 'Op Martinique en Sint-Vincent, de veelgeteisterde eilanden
+
+  De Aarde en haar Volken, 1904'
+url: http://www.gutenberg.org/ebooks/27961
